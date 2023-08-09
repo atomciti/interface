@@ -1,11 +1,6 @@
-# Vircadia Web
+# ATOMCITI
 
-## ⚠️ Early Developer Alpha ⚠️
-### The Vircadia web client is in Early Developer Alpha! There will be unimplemented features and bugs.
-***Please take a moment to check the list of issues and file an issue if one does not exist already.
-If you are able, please try to implement a feature or fix a bug yourself! The metaverse appreciates your assistance. 🙏***
-
-Vircadia Web (*codename Aether*) is an open source metaverse web client for accessing virtual worlds.
+This is the web interface for ATOMCITI to access interlinked metaverse worlds.
 
 ## Compatibility
 
@@ -14,10 +9,6 @@ This interface is tested and validated for the following browser platforms:
     * Chromium (Chrome, Brave, etc.)
     * Webkit (Safari)
     * Gecko (Firefox)
-* XR on Android *(COMING SOON!)*
-    * Quest 2/Quest Pro
-    * Pico 4
-    * Vive Focus 3
 
 ## Project Setup
 
@@ -48,7 +39,7 @@ yarn
 
 ### Customization Options
 
-The web client's settings such as branding, default servers, and more, can be customized directly from [environment variables](https://github.com/vircadia/vircadia-web/blob/master/quasar.conf.js#L131) which you must set at or prior to build/compile time.
+The web client's settings such as branding, default servers, and more, can be customized directly from [environment variables](https://github.com/atomciti/interface/blob/master/quasar.conf.js#L131) which you must set at or prior to build/compile time.
 
 See [Configuring quasar.conf.js](https://v2.quasar.dev/quasar-cli/quasar-conf-js) for a full set of customization options.
 
